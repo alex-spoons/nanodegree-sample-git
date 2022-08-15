@@ -1,7 +1,11 @@
 # nanodegree-sample-git
 
 - rebase
-- action
-- hook
-- python
-- django
+- add
+- commit
+- status
+- log
+- merge
+- push
+- pull
+- fetch
